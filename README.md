@@ -1,4 +1,4 @@
-# IbeanconJs
+# IbeaconJs
 ioniv4 Ibeacon demo
 
 # Other 
